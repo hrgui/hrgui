@@ -1,6 +1,18 @@
 # Hi there 👋, my name is Harman.
 
-- 🔭 I love making web applications the best they can be. Here's some keywords: React 18, Server Components, GraphQL, Hasura.
-- I do dabble on GraphQL examples: https://github.com/hrgui/graphql-gateway-example, https://github.com/hrgui/graphql-express-examples
 - My portfolio/blog site is https://hrgui.github.io/
 
+# What do you do in your-day-to-day?
+
+React, Node.js, GraphQL.
+
+# Whatcha learning on the side?
+
+### Programming Languages
+- 🚧 Go. I want to understand why Golang is hot. I want to know why esbuild uses it.
+
+### Languages
+- 🚧 Japanese. Just cuz. 
+
+### Concepts
+- 📋 The ins and outs of streaming in general. How does streaming work? I want to know.
