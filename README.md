@@ -15,4 +15,4 @@ React, Node.js, GraphQL.
 - 🚧 Japanese. Just cuz. 
 
 ### Concepts
-- [ ] The ins and outs of streaming in general. How does streaming work? I want to know.
+- [ ] The ins and outs of video streaming in general. How does streaming work? I want to know.
